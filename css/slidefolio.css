@@ -63,7 +63,7 @@ cursor:pointer;
 #Grid .mix{
     opacity: 0;
     display: none;
-	max-height:230px;
+	/*max-height:230px;*/
 }
 /* Navbar */
 #nav {
